@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "slices": [
+    {
+      "id": "slice-1",
+      "prompt": "Execute slice 1 exactly as specified in docs/project-plan.md. Keep scope strictly to this slice, run required validation, and commit with a conventional commit message."
+    },
+    {
+      "id": "slice-2",
+      "prompt": "Execute slice 2 exactly as specified in docs/project-plan.md. Keep scope strictly to this slice, run required validation, and commit with a conventional commit message."
+    },
+    {
+      "id": "slice-3",
+      "prompt": "Execute slice 3 exactly as specified in docs/project-plan.md. Keep scope strictly to this slice, run required validation, and commit with a conventional commit message."
+    },
+    {
+      "id": "slice-4",
+      "prompt": "Execute slice 4 exactly as specified in docs/project-plan.md. Keep scope strictly to this slice, run required validation, and commit with conventional commit messages."
+    },
+    {
+      "id": "slice-5",
+      "prompt": "Execute slice 5 exactly as specified in docs/project-plan.md. Keep scope strictly to this slice, run required validation, and commit with a conventional commit message."
+    }
+  ]
+}
